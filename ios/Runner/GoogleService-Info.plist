@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>515027803393-cg8lad75eiussad2qq2rujeq7973vn5e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.515027803393-cg8lad75eiussad2qq2rujeq7973vn5e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>515027803393-2mmb6n1r3pslil8lrvle61nbf0qtuiai.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlC_JW9UvpKeon1GbrviS3YAAX5mPWbXE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>515027803393</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.greencar</string>
+	<key>PROJECT_ID</key>
+	<string>green-car-e515a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>green-car-e515a.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:515027803393:ios:e26adbb9b71432a8bf8f00</string>
+	<key>DATABASE_URL</key>
+	<string>https://green-car-e515a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

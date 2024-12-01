@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "515027803393",
+    "firebase_url": "https://green-car-e515a-default-rtdb.firebaseio.com",
+    "project_id": "green-car-e515a",
+    "storage_bucket": "green-car-e515a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515027803393:android:2e83ce8a6308e6dcbf8f00",
+        "android_client_info": {
+          "package_name": "app.greencar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515027803393-amc9jetm2h0ni302s3tmjkdpnnse5c9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9dzaBITtRqM6BGvEs4_lxC5Acuje1jOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515027803393-amc9jetm2h0ni302s3tmjkdpnnse5c9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515027803393-cg8lad75eiussad2qq2rujeq7973vn5e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.greencar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515027803393:android:1f328ba6ade5a82bbf8f00",
+        "android_client_info": {
+          "package_name": "com.example.car_wash_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515027803393-amc9jetm2h0ni302s3tmjkdpnnse5c9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9dzaBITtRqM6BGvEs4_lxC5Acuje1jOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515027803393-amc9jetm2h0ni302s3tmjkdpnnse5c9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515027803393-cg8lad75eiussad2qq2rujeq7973vn5e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.greencar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

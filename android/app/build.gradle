@@ -1,0 +1,55 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+    // id 'com.google.gms.google-services' // Keep this commented in the plugins block
+    id 'com.google.firebase.crashlytics'
+
+}
+
+android {
+    namespace = "app.greencar"
+    compileSdk = flutter.compileSdkVersion
+    ndkVersion = flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8
+    }
+
+//updated minSdk in build.gradle
+//edited by : Waleed
+//created at : 23/11/2024
+    defaultConfig {
+        applicationId = "app.greencar"
+        minSdk = 26
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            signingConfig = signingConfigs.debug
+            minifyEnabled false
+            shrinkResources false
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
+
+// Apply Google services plugin
+apply plugin: 'com.google.gms.google-services'
+
+dependencies {
+  coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:1.2.2'
+    implementation 'com.android.support:multidex:2.0.1'
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="green">#5FB58E</color>
+    <color name="black">#181616</color>
+    <color name="blacklight">#4D5257</color>
+    <color name="grey">#131313</color>
+    <color name="oliveGreen">#A7C956</color>
+    <color name="lightgreen">#ECFFF1</color>
+    <color name="lightgreenishblue">#AADDB8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#58AFC6</color>
+    <color name="bluelight">#99DCEE</color>
+    <color name="babybluelight">#EBFBFF</color>
+    <color name="redColor">#DA5B5B</color>
+    <color name="mintGreenColor">#32D34B</color>
+    <color name="MintGreen">#84BB93</color>
+    <color name="lightMintGreenColor">#F3FEFF</color>
+    <color name="greenColor">#2B9648</color>
+    <color name="mainGreenColor">#029837</color>
+    <color name="blackColor">#141815</color>
+    <color name="mainBlackColor">#000000</color>
+    <color name="darkBlackColor">#141212</color>
+    <color name="lightBlackColor">#1F1F1F</color>
+    <color name="mainGrayColor">#7C7C7C</color>
+    <color name="lightGrayColor">#F7F8F9</color>
+    <color name="darkGreyColor">#777777</color>
+    <color name="lightGreyColor">#F8F8F8</color>
+    <color name="lightBlueColor">#CEF3F6</color>
+        <color name="black2">#131313</color>
+
+    <color name="mutedBlue">#242760</color>
+    <color name="darkBrown">#544C4C</color>
+    <color name="lightCyan">#E8F2F7</color>
+    <color name="Bluegray">#9197B3</color>
+    <color name="lightslategray">#9197B3</color>
+    <color name="aliceBlue">#F7FDFF</color>
+    <color name="verylightgreen">#E3FFEA</color>
+    <color name="verylightblue">#F5F9FF</color>
+    <color name="silverGrey">#D2D2D2</color>
+    <color name="greyColor">#494746</color>
+    <color name="hardGreyColor">#22212E</color>
+    <color name="veryLightGreyColor">#797979</color>
+    <color name="orangeColor">#FEB97A</color>
+
+    //added by waleed
+    <color name="darkBlueGrey">#667085</color>
+    <color name="greenish">#F6FFF9</color>
+    <color name="verylightgrayshade">#F6F6F6</color>
+    //end added by waleed
+    
+    //added by waleed (19/10/2024)
+    <color name="verylightyellowshade">#FFFFF1</color>
+    <color name="gainsboro">#E7E7E7</color>
+    //end added by waleed
+
+    <color name="highLightMintGreen">#EDFFF0</color>
+       // Start by: Helmy
+  // Start at date: 21/10/2024
+  // Add new colors
+    <color name="blue">#295AB9</color>
+    <color name="darkBrown">#352B2B</color>
+    <color name="veryLightMintGreen">#84BB93</color>
+  
+  // start by nadeen mohamed at date (22/10/2024)
+  <color name="greyColorBackground">#F9F9F9</color>
+  <color name="pinkColor">#FFF0F0</color>
+  <color name="lightGreyOpacity">#888888</color>
+  <color name="lightGreyDivider">#969696</color>
+  <color name="darkBlueColor">#0F2F5B</color>
+  <color name="purpleColorShadow">#6359A6</color>
+  <color name="lightcyan">#DCF9F9</color>
+
+</resources>
